@@ -11,7 +11,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Version-Base-blueviolet"></a>
 
 <!-- TODO: Add actual links when available -->
-[🏠 Homepage](#) | [📄 Technical Report](#) | [🤗 Hugging Face](#) | [☁️ Baidu Cloud](#)
+[🏠 Homepage](https://github.com/TerraSense-CASM/terrasense_web) | [📄 Technical Report](#) | [🤗 Hugging Face](#) | [☁️ Baidu Cloud](#)
 
 </div>
 
